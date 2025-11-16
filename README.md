@@ -1,4 +1,4 @@
-# BNET: Neural Network-Based Wireless Communication Framework
+# BNET: A Neural Network-Based Framework for Symbol Detection in Wireless Communication
 
 ## Overview
 "BNET: A Neural Network Approach for LLR-based Detection in the Presence of Bursty Impulsive Noise" introduces a neural network-based framework designed to enhance the reliability of wireless communications in challenging noise environments. The BNET framework approximates the log-likelihood ratio (LLR) function of the BCJR algorithm, offering a more computationally efficient approach while maintaining, or in some cases surpassing, the Bit Error Rate (BER) performance of conventional methods.
